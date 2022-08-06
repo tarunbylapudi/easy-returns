@@ -1,0 +1,18 @@
+http://localhost:9006/COMPONENT-PROCESSING-SERVICE/component-processing
+
+http://localhost:9006/COMPONENT-PROCESSING-SERVICE/payment-processing
+
+http://localhost:9006/AUTHORIZATION-SERVICE/authenticate
+
+http://localhost:9006/AUTHORIZATION-SERVICE/validate
+
+
+mew url
+
+http://localhost:9006/component-processing
+
+http://localhost:9006/payment-processing
+
+http://localhost:9006/authenticate
+
+http://localhost:9006/validate
