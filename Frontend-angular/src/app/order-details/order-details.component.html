@@ -1,0 +1,125 @@
+<div class="fluid-container">
+            <app-navbar></app-navbar>
+       
+</div>
+<div class="fluid-container main-container">
+
+    <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+
+            <div class="col-12 col-md-8 col-lg-6 col-xl-8  pt-3 ps-5 pe-5">
+                <div class="card shadow-2-strong mt-4" style="border-radius: 1rem; ">
+
+                    <div class="card-header text-center h2 ">
+                        Create Order
+                    </div>
+                    <div class="card-body text-center  p-3">
+                        <form name="order-details" (ngSubmit)="onSubmit(orderDataForm)"  #orderDataForm="ngForm">
+
+                            <div>
+                                <div class="form-group row mb-3">
+                                    <label class="col-md-6 d-flex justify-content-center align-items-center">Name</label>
+                                    <div class="col-md-6">
+                                        <input type="username" class="form-control " name="userName" ngModel required
+                                            maxlength="30" #username="ngModel">
+                                        <span class="error" *ngIf="!username.valid && username.touched">Enter
+                                            Valid
+                                            Name
+                                        </span>
+                                    </div>
+
+
+                                </div>
+                                <div class="form-group row mb-3">
+                                    <label class="col-md-6 d-flex justify-content-center align-items-center">Contact Number</label>
+                                    <div class="col-md-6">
+                                        <input type="text" name="contactNumber" class="form-control" ngModel required
+                                            [pattern]="phoneValidator" #contactnumber="ngModel">
+                                        <span class="error" *ngIf="!contactnumber.valid && contactnumber.touched"> Enter
+                                            Valid Contact Number</span>
+                                    </div>
+
+
+                                </div>
+
+
+                            </div>
+
+                            <div class="form-group row mb-3">
+                                <label class="col-md-6 d-flex justify-content-center align-items-center">Select the Component Type?</label>
+                                <div class="col-md-6">
+                                    <select class="form-select" name="componentType" ngModel required>
+                                        <option value="" disabled selected>Select</option>
+                                        <option value="Integral">Integral Item</option>
+                                        <option value="Accessory">Accessory</option>
+                                    </select>
+                                </div>
+
+                            </div>
+                            <div>
+
+                                <div class="form-group row mb-3">
+                                    <label class="col-md-6 d-flex justify-content-center align-items-center" >Component Name</label>
+
+                                    <div class="col-md-6">
+                                        <input type="text" class="form-control" ngModel name="componentName" required
+                                            maxlength="15" #componentname="ngModel">
+                                        <div class="error" *ngIf="!componentname.valid && componentname.touched">Enter
+                                            Valid
+                                            Component Name
+                                        </div>
+                                    </div>
+
+
+                                </div>
+
+                                <div class="form-group row mb-3">
+                                    <label class="col-md-6 d-flex justify-content-center align-items-center">Quantity</label>
+
+                                    <div class="col-md-6">
+                                        <input type="number" class="form-control" ngModel name="quantity" required
+                                            max="10" #quantity="ngModel">
+                                        <div class="error" *ngIf="!quantity.valid && quantity.touched">Maximim
+                                            of 10
+                                            Quantity
+                                        </div>
+                                    </div>
+
+                                </div>
+
+
+
+                                <div *ngIf="error">
+                                    <span class="error alert-danger p-2">
+                                        {{error}}
+                                    </span>
+                                </div>
+
+
+
+
+
+
+                            </div>
+                            <div class="form-group text-center pt-3">
+                                <button type="submit" [disabled]="!orderDataForm.valid"
+                                    class="btn btn-primary custom-btn">Submit</button>
+                            </div>
+
+
+
+
+
+
+
+
+
+
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

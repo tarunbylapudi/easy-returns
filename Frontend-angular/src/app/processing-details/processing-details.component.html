@@ -1,0 +1,91 @@
+<div class="fluid-container">
+
+   
+            <app-navbar></app-navbar>
+        
+  </div>
+<div class="fluid-container p-5 main-container">
+
+    <div class="container h-100 mw-100 p-5 child-container">
+        <div class="row d-flex justify-content-center align-items-center h-100 mw-100">
+
+            <div class="col-12 col-md-8 col-lg-6 col-xl-8  pt-3 ps-5 pe-5">
+                <div class="card shadow-2-strong" style="border-radius: 1rem;">
+                    <div class="card-header text-center h2">
+                        View the processing details
+                    </div>
+                    <div class="card-body text-center  p-3">
+
+                        <table class="table table-hover table-bordered">
+                            
+                            <tbody>
+                                <tr>
+                                   
+                                    <td>Request ID</td>
+                                    <td>{{orderResponseDetails.requestId}}</td>
+    
+                                </tr>
+                                <tr>
+                                    
+                                    <td>Processing Charge (INR)</td>
+                                    <td> {{orderResponseDetails.processingCharge}}</td>
+    
+                                </tr>
+                                <tr>
+                                    
+                                    <td>Packaging And Delivery charge (INR)</td>
+                                    <td>{{orderResponseDetails.packagingAndDeliveryCharge}}</td>
+    
+                                </tr>
+                                <tr>
+                                    
+                                    <td>Date Of Delivery</td>
+                                    <td>{{orderResponseDetails.dateOfDelivery}}</td>
+    
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="form-group text-center">
+                            <button type="=button" class="btn btn-primary custom-btn" (click)="onClick()">Proceed to Payment</button>
+                        </div>
+                       
+
+                            
+                                   
+
+                              
+                                
+
+
+                           
+
+                           
+
+                                
+                                
+
+
+
+                        
+
+
+
+
+
+
+                            
+                           
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+.loader{
+    background-color: red;
+    width: 100%;
+    z-index: 1;
+}
+.app{
+   
+    z-index: -1;
+}

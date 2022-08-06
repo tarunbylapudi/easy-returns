@@ -1,0 +1,73 @@
+<div class="fluid-container col-lg-12" >
+      <app-navbar></app-navbar>   
+</div>
+
+
+  <div class="fluid-container main-container">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-12 col-md-8 col-lg-6 col-xl-7 image">
+     
+        <img class=" homeImage text-center align-items-center" [src]="homeImage" alt=""> 
+      
+      </div>
+       <div class="col-12 col-md-8 col-lg-6 col-xl-5 p-5">
+        <div class="card shadow-2-strong" style="border-radius: 1rem; ">
+          <div class="card-header text-center  p-2" >
+            <div class="h2 m-0">
+              Login
+            </div>
+           
+          </div>
+          <div class="card-body  p-4">
+            <form name="login" (ngSubmit)="onsubmit(loginForm)" #loginForm="ngForm">
+
+              <div class=" mb-3">
+
+                <div class="form-group mb-3">
+                  <label>Username</label>
+                  <input type="username" class="form-control" name="userName" ngModel required #username="ngModel">
+                  <div>
+                    <span class="error" *ngIf="!username.valid && username.touched">Please Enter Valid
+                      Username</span>
+                  </div>
+                  
+
+                </div>
+
+                <div class="form-group">
+                  <label>Password</label>
+                  <input type="password" name="password" ngModel required class="form-control" password
+                    #password="ngModel">
+                  <span class="error" *ngIf="!password.valid && password.touched">Please Enter Valid
+                    password</span>
+
+                </div>
+
+
+              </div>
+              <div class="error" *ngIf="error">
+                <span  >
+                  <p>{{error}}</p>
+                </span>
+              </div>
+              
+              <div class="form-group">
+                <button type="submit" class="btn btn-primary custom-btn" [disabled]="!loginForm.valid">Login</button>
+                <div class="clearfix"></div>
+              </div>
+
+            </form>
+          </div> 
+        </div>
+      </div>  
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+<div *ngIf="loader.isLoading | async" class="loader">
+    <app-loader></app-loader>
+</div>
+
+<div [hidden]="loader.isLoading |async">
+    <router-outlet></router-outlet>
+</div>

@@ -1,0 +1,22 @@
+
+
+input.ng-invalid.ng-touched{
+    border:1px solid red;
+  }
+.error{
+  color: red;
+}  
+
+/* .main-container{
+  padding-bottom: 4%;
+} */
+
+.custom-btn {
+  background-color: #F92C85;
+}
+
+.form-group{
+  text-align: center;
+  justify-content: center;
+}
+

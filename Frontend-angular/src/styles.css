@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+        height: 100%;
+}
+
+body {
+        margin: 0;
+        font-family: Roboto, "Helvetica Neue", sans-serif;
+        overflow-x: hidden;
+        background-color: #FDF5DF !important;
+}
+
+.custom-btn {
+        background-color: #F92C85 !important;
+}
+
+.card-header{
+        background-color:  #5EBEC4 !important;
+}
