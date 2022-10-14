@@ -1,5 +1,4 @@
-# Easy-Returns
-Return Order Management Portal
+# Easy-Returns ---> Return Order Management Portal
 
 •	The application is used to create order requests and to calculate the item costs for valid users.
 •	Used Angular to develop the fronted and java, Spring Rest with Spring boot for the backend.
