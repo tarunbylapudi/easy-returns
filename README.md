@@ -74,7 +74,7 @@
 ## :star2: About the Project
 
 <ul>
- <li></li>
+
  <li>The application is used to create order requests and to calculate the item costs for valid users.</li>
  <li>Used Angular to develop the fronted and java, Spring Rest with Spring boot for the backend.</li>
  <li>Implemented Microservices architecture and used Feign Client for communication between microservices.</li>
@@ -108,6 +108,10 @@
 
 <details>
   <summary>Server</summary>
+ <ul>
+  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://angular.io/">Angular</a></li>
+ </ul>
   
 </details>
 
