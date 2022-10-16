@@ -73,6 +73,16 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
+<ul>
+ <li>The application is used to create order requests and to calculate the item costs for valid users.</li>
+ <li>Used Angular to develop the fronted and java, Spring Rest with Spring boot for the backend.</li>
+ <li>Implemented Microservices architecture and used Feign Client for communication between microservices.</li>
+ <li>To secure the application used Spring Security and jwt tokens for Authentication and Authorization.</li>
+ <li>Used Junit for unit testing, Lombok to reduce boilerplate code, and Sonar lint to check code quality & code security.</li>
+ <li>Used docker to generate images of microservices and deployed the application on AWS using ECR, ECS FARGATE, and implemented ci/cd using AWS code pipeline.</li>
+ <li>In Angular used concepts like Guard, Interceptor, Data binding, Event binding, and Template driven forms.</li>
+ </ul>
+
 
 <!-- Screenshots -->
 ### :camera: Screenshots
