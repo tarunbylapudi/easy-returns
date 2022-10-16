@@ -151,6 +151,7 @@
 | Accent Color | ![#fb76b0](https://via.placeholder.com/10/fb76b0?text=+) #fb76b0 |
 | Text Color | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
 
+<!-- Prerequisites -->
 
 ### :bulb: Prerequisites
 Angular, Java should br installed in your system
