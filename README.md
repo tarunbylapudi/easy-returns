@@ -109,8 +109,8 @@
 <details>
   <summary>Server</summary>
  <ul>
-  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://angular.io/">Angular</a></li>
+  <li><a href="https://www.typescriptlang.org/">Java</a></li>
+    <li><a href="https://angular.io/">Spring-boot</a></li>
  </ul>
   
 </details>
