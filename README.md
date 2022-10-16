@@ -92,6 +92,7 @@
   <img src="![image](https://user-images.githubusercontent.com/92293379/196019657-c2043cf2-e9de-46c9-a1d2-0f577117ebed.png)" alt="login-page" />
  ![login-page](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/login.png?raw=true)
 </div>
+![login-page](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/login.png?raw=true)
 
 
 
