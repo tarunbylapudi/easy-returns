@@ -147,6 +147,17 @@
 <!-- Color Reference -->
 ### :art: Color Reference
 
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#fb76b0](https://via.placeholder.com/10/fb76b0?text=+) #fb76b0 |
+
+
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Primary Color | ![#fdf5df](https://via.placeholder.com/10/222831?text=+) #fdf5df |
