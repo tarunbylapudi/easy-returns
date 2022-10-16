@@ -91,6 +91,11 @@
 <div align="center"> 
   <img src="![image](https://user-images.githubusercontent.com/92293379/196019657-c2043cf2-e9de-46c9-a1d2-0f577117ebed.png)" alt="login-page" />
 </div>
+![checkout](https://user-images.githubusercontent.com/92293379/196019768-b717df65-9dbd-4e19-9a7e-e4f34efdd8c1.png)
+![confirmation](https://user-images.githubusercontent.com/92293379/196019771-21ad76ca-8c08-4b49-abc4-e34f5a1e255a.png)
+![create_order](https://user-images.githubusercontent.com/92293379/196019773-ef41b851-d818-4c82-b1b2-465ee4efa726.png)
+![login](https://user-images.githubusercontent.com/92293379/196019775-10d08961-410b-40aa-9632-63b76d40fe7c.png)
+![process_details](https://user-images.githubusercontent.com/92293379/196019777-7e740562-0f55-479c-97bd-39dd3fb4feef.png)
 
 
 <!-- TechStack -->
