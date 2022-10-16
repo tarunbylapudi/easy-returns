@@ -108,12 +108,7 @@
 
 <details>
   <summary>Server</summary>
-  <ul>
-    
-    <li><a href="https://www.java.com/en/">Java</a></li>
-    <li><a href="https://spring.io/projects/spring-boot">Spring-boot</a></li>
-    
-  </ul>
+  
 </details>
 
 <details>
