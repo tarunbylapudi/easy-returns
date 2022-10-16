@@ -90,6 +90,10 @@
 
 ![Login](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/login.png?raw=true)
 <h3>Login-page</h3>
+![Create-order](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/create_order.png?raw=true)
+![Process-details](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/process_details.png?raw=true)
+![Checkout](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/checkout.png?raw=true)
+![Confirmation](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/confirmation.png?raw=true)
 
 
 
