@@ -149,10 +149,10 @@
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Primary Color | ![#fdf5df](https://via.placeholder.com/10/222831?text=+) #fdf5df |
+| Secondary Color | ![#5ebec4](https://via.placeholder.com/10/393E46?text=+) #5ebec4 |
+| Accent Color | ![#fb76b0](https://via.placeholder.com/10/00ADB5?text=+) #fb76b0 |
+| Text Color | ![#fb76b0](https://via.placeholder.com/10/fb76b0?text=+) #fb76b0 |
 
 
 <!-- Env Variables -->
