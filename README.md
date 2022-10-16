@@ -85,11 +85,11 @@
 <!-- Screenshots -->
 ### :camera: Screenshots
 
-![Login](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/login.png?raw=true)
-![Create-order](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/create_order.png?raw=true)
-![Process-details](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/process_details.png?raw=true)
-![Checkout](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/checkout.png?raw=true)
-![Confirmation](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/confirmation.png?raw=true)
+![Login](ReadMe-assets/login.png)
+![Create-order](ReadMe-assets/create_order.png)
+![Process-details](ReadMe-assets/process_details.png)
+![Checkout](ReadMe-assets/checkout.png)
+![Confirmation](ReadMe-assets/confirmation.png)
 
 
 
