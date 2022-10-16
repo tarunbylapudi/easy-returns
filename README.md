@@ -52,18 +52,15 @@
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
   * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
+ 
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
   * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
+
+
 - [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
+  
+
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
@@ -147,13 +144,14 @@
 <!-- Color Reference -->
 ### :art: Color Reference
 
-
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#fdf5df](https://via.placeholder.com/10/222831?text=+) #fdf5df |
-| Secondary Color | ![#5ebec4](https://via.placeholder.com/10/393E46?text=+) #5ebec4 |
-| Accent Color | ![#fb76b0](https://via.placeholder.com/10/00ADB5?text=+) #fb76b0 |
-| Text Color | ![#fb76b0](https://via.placeholder.com/10/fb76b0?text=+) #fb76b0 |
+| Primary Color | ![#fdf5df](https://via.placeholder.com/10/fdf5df?text=+) #fdf5df |
+| Secondary Color | ![#5ebec4](https://via.placeholder.com/10/5ebec4?text=+) #5ebec4 |
+| Accent Color | ![#fb76b0](https://via.placeholder.com/10/fb76b0?text=+) #fb76b0 |
+| Text Color | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
+
+
 
 
 <!-- Run Locally -->
