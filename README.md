@@ -91,6 +91,10 @@
 <div align="center"> 
   ![Login](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/login.png?raw=true)
 </div>
+## Screenshots
+
+![Login](https://github.com/tarunbylapudi/easy-returns/blob/main/ReadMe-assets/login.png?raw=true)
+
 
 
 
