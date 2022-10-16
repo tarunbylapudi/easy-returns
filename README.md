@@ -74,6 +74,7 @@
 ## :star2: About the Project
 
 <ul>
+ <li></li>
  <li>The application is used to create order requests and to calculate the item costs for valid users.</li>
  <li>Used Angular to develop the fronted and java, Spring Rest with Spring boot for the backend.</li>
  <li>Implemented Microservices architecture and used Feign Client for communication between microservices.</li>
@@ -99,34 +100,27 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li><a href="https://angular.io/">Angular</a></li>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+    
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
+    
+    <li><a href="https://www.java.com/en/">Java</a></li>
+    <li><a href="https://spring.io/projects/spring-boot">Spring-boot</a></li>
+    
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https://www.h2database.com/html/main.html">H2</a></li>
+    
   </ul>
 </details>
 
@@ -134,8 +128,8 @@
 <summary>DevOps</summary>
   <ul>
     <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
+    <li><a href="https://aws.amazon.com/console/">AWS</a></li>
+    
   </ul>
 </details>
 
