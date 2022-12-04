@@ -48,13 +48,14 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+  * [Demo](#movie_camera-demo)
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
   * [Color Reference](#art-color-reference)
  
 - [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
+  * [Prerequisites](#bulb-prerequisites)
   * [Run Locally](#running-run-locally)
 
 
@@ -81,6 +82,11 @@
  <li>In Angular used concepts like Guard, Interceptor, Data binding, Event binding, and Template driven forms.</li>
  </ul>
 
+
+<!-- Demo -->
+### :movie_camera: Demo
+
+![Demo](ReadMe-assets/easy_returns.gif)
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -151,8 +157,12 @@
 | Accent Color | ![#fb76b0](https://via.placeholder.com/10/fb76b0?text=+) #fb76b0 |
 | Text Color | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
 
-<!-- Prerequisites -->
+toolbox
 
+<!-- Getting Started -->
+### :toolbox: Getting Started
+
+<!-- Prerequisites -->
 ### :bulb: Prerequisites
 
 Angular, Java should br installed in your system
